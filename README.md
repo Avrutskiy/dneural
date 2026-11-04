@@ -7,7 +7,7 @@ backends and training with input derivatives through sixth order, including mixe
 derivatives. It includes documented function-approximation and PDE examples, plus
 [performance benchmarks](https://github.com/Avrutskiy/cPDE#function-approximation-benchmark).
 
-This repository contains a minimal example of training a neural network to
+**This repository** contains a minimal example of training a neural network to
 approximate a function and its first derivatives. The target is a two-dimensional
 function defined by a random Fourier series. See
 [nn_research_gpu.ipynb](nn_research_gpu.ipynb).
